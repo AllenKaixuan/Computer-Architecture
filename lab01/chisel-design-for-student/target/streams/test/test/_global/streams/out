@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(md5Test, org.scalatest.tools.Framework$$anon$1@4adfc4e5, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(roundTest, org.scalatest.tools.Framework$$anon$1@4adfc4e5, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mroundTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmd5round[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should do right thing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmd5Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmd5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should do right thing[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 761 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	md5Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	roundTest[0m

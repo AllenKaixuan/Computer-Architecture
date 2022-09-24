@@ -28,7 +28,7 @@ void simp_md5_init(simp_md5_ctx* ctx, int64_t* input) {
     memset(ctx, 0, sizeof(simp_md5_ctx));
     for(int i = 0; i < 4; ++i)
         memcpy(((void*)ctx->msg) + i * 2 * sizeof(int64_t), input, 2 * sizeof(int64_t));
-    ctx->A = SALT_A;
+    ctx->A = SALT_A;  // 初始化
     ctx->B = SALT_B;
     ctx->C = SALT_C;
     ctx->D = SALT_D;

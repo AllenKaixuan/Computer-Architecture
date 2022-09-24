@@ -1,0 +1,3 @@
+/home/kaixuan/VMware_ubuntu/Computer_Architecture/lab01/example-c-code/build/CMakeFiles/simp_md5.dir
+/home/kaixuan/VMware_ubuntu/Computer_Architecture/lab01/example-c-code/build/CMakeFiles/edit_cache.dir
+/home/kaixuan/VMware_ubuntu/Computer_Architecture/lab01/example-c-code/build/CMakeFiles/rebuild_cache.dir
